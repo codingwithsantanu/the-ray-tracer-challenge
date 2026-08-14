@@ -1,4 +1,4 @@
 # The Ray Tracer Challenge
 
-> [!TODO]\
+> [!IMPORTANT]\
 > Add a proper project description.
